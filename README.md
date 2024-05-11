@@ -3,6 +3,8 @@
 
 Este projeto tem como objetivo traduzir frases em português para a Língua Brasileira de Sinais (Libras), utilizando inteligência artificial e animação 3D para apresentar os sinais correspondentes com a ajuda de um avatar 3D.
 
+![images](https://github.com/mzambra/TradutorLinguagemSinais/assets/77467196/03fa4587-7a2a-41c3-9f4c-252c7545a718) 
+
 **Observação:** Por questões de segurança, a chave da API do Google Gemini foi removida deste código. Você precisará obter sua própria chave e adicioná-la ao arquivo `app.py` para que o projeto funcione corretamente. 
 
 ## 💻 Tecnologias Utilizadas
@@ -15,6 +17,8 @@ Este projeto tem como objetivo traduzir frases em português para a Língua Bras
     * [SciPy](https://scipy.org/)
     * [bpy](https://docs.blender.org/api/current/bpy.ops.html) (API do Blender)
 * **Software de Animação 3D:** [Blender](https://www.blender.org/)
+  
+![Captura de tela 2024-05-10 232346](https://github.com/mzambra/TradutorLinguagemSinais/assets/77467196/7f627f9b-7bc0-48b8-826b-1ee8a90b7f81)
 * **API de Inteligência Artificial:** Google Gemini API (Hipotética)
 * **Modelo 3D:** Hugo, do site do VLIBRAS ([https://vlibras.gov.br/](https://vlibras.gov.br/))
 
