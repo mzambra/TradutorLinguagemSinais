@@ -3,7 +3,7 @@
 
 Este projeto tem como objetivo traduzir frases em português para a Língua Brasileira de Sinais (Libras), utilizando inteligência artificial e animação 3D para apresentar os sinais correspondentes com a ajuda de um avatar 3D.
 
-![images](https://github.com/mzambra/TradutorLinguagemSinais/assets/77467196/03fa4587-7a2a-41c3-9f4c-252c7545a718) 
+![captura2](https://github.com/mzambra/TradutorLinguagemSinais/assets/77467196/614b2bd3-4ee6-4a83-ba10-66978df9dd90)
 
 **Observação:** Por questões de segurança, a chave da API do Google Gemini foi removida deste código. Você precisará obter sua própria chave e adicioná-la ao arquivo `app.py` para que o projeto funcione corretamente. 
 
