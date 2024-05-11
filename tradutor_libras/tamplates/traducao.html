@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tradução</title>
+</head>
+<body>
+    <h1>Tradução em Libras:</h1>
+    <p>{{ texto }}</p>
+    
+    <h2>Sinais:</h2>
+    <ul>
+    {% for sinal in traducao_libras %}
+        <li>{{ sinal }}</li>  {# Exibe a descrição textual de cada sinal #}
+    {% endfor %}
+    </ul>
+</body>
+</html>
